@@ -24,7 +24,7 @@
 - [競技プログラミング始めませんか？](https://speakerdeck.com/nabeen/php-conference-fukuoka-2019) / PHP Conference Fukuoka 2019
 - [僕達がやってきたレガシープロジェクトとの付き合い方](https://speakerdeck.com/nabeen/php-conference-fukuoka-2017) / PHP CONFERENCE FUKUOKA 2017
 
-## Some of my Github Public Stats
+## Some of my Github Public Stats 🌟
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=nabeen&show_icons=true&count_private=true" />
