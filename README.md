@@ -8,11 +8,6 @@
 [![Reddit Badge](https://img.shields.io/badge/-Reddit-FF4500?style=flat&logo=Reddit&logoColor=white)](https://www.reddit.com/user/nabeen919/ "Find on Reddit")
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kenichiro-watanabe-a465299a/ "Connect on LinkedIn")
 
-## RESUME 🙋‍♂️
-
-- JP: [RESUME.md](./RESUME.md)
-- EN: TBD
-
 ## OSS 🎉
 
 - [hasigo/gridsome\-source\-google\-analytics\-reporting\-api](https://github.com/hasigo/gridsome-source-google-analytics-reporting-api) ![JavaScript](https://img.shields.io/badge/-ffffff?style=flat-square&logo=javascript)
